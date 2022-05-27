@@ -13,7 +13,7 @@ SCreaming Monkey Toy STory 3 red Pandas
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](https://images.app.goo.gl/GtLR3fwnoCnycSZW7)
 ```
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
